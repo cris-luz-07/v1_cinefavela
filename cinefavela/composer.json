@@ -1,0 +1,14 @@
+{
+    "name": "emerson/cinefavela",
+    "description": "Projeto de OPE Cine Favela",
+    "type": "project",
+    "license": "Open GL 3.0",
+    "authors": [
+        {
+            "name": "Emerson Jr",
+            "email": "emerson.silvan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
